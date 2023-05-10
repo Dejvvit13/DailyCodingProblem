@@ -4,10 +4,6 @@ package com.github.dejvvit13.day4;
 //In other words, find the lowest positive integer that does not exist in the array. The array can contain duplicates and negative numbers as well.
 //For example, the input [3, 4, -1, 1] should give 2. The input [1, 2, 0] should give 3.
 
-import com.sun.source.tree.Tree;
-
-import java.nio.file.Paths;
-import java.util.Iterator;
 import java.util.Set;
 import java.util.TreeSet;
 
